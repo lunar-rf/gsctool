@@ -61,7 +61,7 @@ Files:
 | https://lunar.sh                      |
 |                                       |
 | Research Laboratories                 |
-| Copyright (C) 2022-2024               |
+| Copyright (C) 2022-2025               |
 |                                       |
 +---------------------------------------+
 ```
