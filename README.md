@@ -24,11 +24,8 @@ The compiler used for this project is [`tcc`](https://github.com/lunarjournal/tc
 > Note: You can modify and hot-reload `GSC` scripts while `Black Ops` is running by quiting
 the level and starting it again.
 
-![Demo](https://raw.githubusercontent.com/lunarjournal/gsctool/main/images/demo.png)
+![Demo](https://raw.githubusercontent.com/lunar-sh/gsctool/main/images/demo.png)
 
-`Demo Video`:
-
-[![](https://img.youtube.com/vi/Gs9mHXyiGNg/0.jpg)](https://www.youtube.com/watch?v=Gs9mHXyiGNg)
 
 Files:
 <br/>
