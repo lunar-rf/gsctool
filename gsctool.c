@@ -159,7 +159,8 @@ BOOL DirectoryExists(
 
 /* Hotfix to prevent crash when exiting gamemode. */
 int* __cdecl Assign_Hotfix_hk(
-	int* a1, int* a2
+	int* a1,
+        int* a2
 )
 {
 	if (a1 != NULL && a2 != NULL)
@@ -174,8 +175,10 @@ int* __cdecl Assign_Hotfix_hk(
 
 /* AC bypass to allow detouring. */
 void __cdecl Thread_Timer_hk(
-	uint8_t a1, int a2,
-	int a3, int a4
+	uint8_t a1,
+        int a2,
+	int a3,
+        int a4
 )
 {
 	return;
