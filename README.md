@@ -1,5 +1,13 @@
 # gsctool
 
+```
+  ________________________  ____  __ 
+ / ___/ __/ ___/_  __/ __ \/ __ \/ / 
+/ (_ /\ \/ /__  / / / /_/ / /_/ / /__
+\___/___/\___/ /_/  \____/\____/____/
+                 
+```
+
 Simple `GSC` script loader and dumper for the `PC` version of `Call Of Duty: Black Ops 1 (T5)`.
 
 [`https://journal.lunar.sh/2023/gsctool.html`](https://journal.lunar.sh/2023/gsctool.html)
@@ -62,4 +70,5 @@ Files:
 |                                       |
 +---------------------------------------+
 ```
+
 
