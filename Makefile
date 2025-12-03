@@ -4,7 +4,7 @@ CFILES_GSC=gsctool.c lib/cdl86/cdl.c lib/miniz/miniz.c
 
 all: gsctool
 
-gsctool: gsctool.c
+gsctool: gsctool.c lib/cdl86/cdl.c lib/miniz/miniz.c
 	$(CC) $(CFLAGS) $(CFILES_GSC) -o gsctool.dll
 
 .PHONY: clean
