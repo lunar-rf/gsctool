@@ -14,7 +14,7 @@ Simple `GSC` script loader and dumper for the `PC` version of `Call Of Duty: Bla
 
 To load the demo `GSC` plugin, copy `gsctool` to the game's root directory.
 
-This demo will give you a `raygun` on spawn in `SP` zombie mode. 
+This demo will give you a `raygun` on spawn in single player zombie mode. 
 
 * `GSC` dumps are written to `gsctool/cache`.
 
@@ -69,4 +69,5 @@ Files:
 |                                       |
 +---------------------------------------+
 ```
+
 
