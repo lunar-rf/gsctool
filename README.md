@@ -37,14 +37,14 @@ the level and starting it again.
 
 Files:
 <br/>
-* `gsctool.h` - `GSC` loader definitions.
-* `gsctool.c` - `core` implementation.
-* `offsets.h` - `T5` function `offsets`.
+* `gsctool.h` - `GSC` loader definitions
+* `gsctool.c` - `core` implementation
+* `offsets.h` - `T5` function `offsets`
 
 # Dependencies
 
-* [`cdl86`](https://github.com/lunar-rf/cdl86) - `x86_64` detours library.
-* [`miniz`](https://github.com/lunar-rf/miniz) - `zlib` library.
+* [`cdl86`](https://github.com/lunar-rf/cdl86) - `x86_64` detours library
+* [`miniz`](https://github.com/lunar-rf/miniz) - `zlib` library
 
 # Signature
 
@@ -69,5 +69,6 @@ Files:
 |                                       |
 +---------------------------------------+
 ```
+
 
 
