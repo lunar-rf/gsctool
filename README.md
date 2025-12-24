@@ -16,7 +16,7 @@ To load the demo `GSC` plugin, copy `gsctool` to the game's root directory.
 
 This demo will give you a `raygun` on spawn in single player zombie mode. 
 
-* `GSC` dumps are written to `gsctool/cache`.
+* `GSC` dumps are written to `gsctool/cache`
 
 > Note: This project is intended to be a starting point for more advanced `GSC` modding.
 
@@ -69,6 +69,7 @@ Files:
 |                                       |
 +---------------------------------------+
 ```
+
 
 
 
