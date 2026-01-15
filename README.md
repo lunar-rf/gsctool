@@ -24,10 +24,14 @@ This demo will give you a `raygun` on spawn in single player zombie mode.
 
 Run: `git submodule update --init --recursive` to clone submodules.
 
-Then build project using the provided `makefile` in `WSL` (`Windows`)
-and inject resulting `DLL`.
+Then build project using either:
 
-The compiler used for this project is [`tcc`](https://github.com/lunarjournal/tcc) (`Tiny C Compiler`).
+* The provided `Makefile` in `WSL` (`Windows`)
+* The provided `premake5.lua` script by running `premake5 vs2022` to generate a Visual Studio 2022 Project.
+
+Finally build and inject the resulting `DLL`.
+
+The compiler used for the Makefile is [`tcc`](https://github.com/lunarjournal/tcc) (`Tiny C Compiler`).
 
 > Note: You can modify and hot-reload `GSC` scripts while `Black Ops` is running by quiting
 the level and starting it again.
@@ -69,6 +73,7 @@ Files:
 |                                       |
 +---------------------------------------+
 ```
+
 
 
 
