@@ -20,8 +20,8 @@
  * | https://lunar.sh                      |
  * |                                       |
  * | Research Laboratories                 |
+ * | Donate XMR @ lunar.sh (OpenAlias)     |
  * | Copyright (C) 2022-2024               |
- * |                                       |
  * +---------------------------------------+
  *
  * Copyright (c) 2022 Lunar RF Labs
@@ -144,4 +144,5 @@ typedef void (__cdecl* Scr_LoadGameType_t)(
 );
 
 #endif
+
 
