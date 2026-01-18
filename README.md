@@ -69,10 +69,11 @@ Files:
 | https://lunar.sh                      |
 |                                       |
 | Research Laboratories                 |
-| Donate XMR @ 'lunar.sh' (OpenAlias)   |
+| OpenAlias (BTC, XMR): lunar.sh        |
 | Copyright (C) 2022-2024               |
 +---------------------------------------+
 ```
+
 
 
 
