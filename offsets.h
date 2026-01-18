@@ -20,7 +20,7 @@
  * | https://lunar.sh                      |
  * |                                       |
  * | Research Laboratories                 |
- * | Donate XMR @ 'lunar.sh' (OpenAlias)   |
+ * | OpenAlias (BTC, XMR): lunar.sh        |
  * | Copyright (C) 2022-2024               |
  * +---------------------------------------+
  *
@@ -65,6 +65,7 @@
 #define T5_Thread_Timer           0x004C06E0
 
 #endif
+
 
 
 
