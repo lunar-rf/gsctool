@@ -20,7 +20,7 @@
  * | https://lunar.sh                      |
  * |                                       |
  * | Research Laboratories                 |
- * | Donate XMR @ lunar.sh (OpenAlias)     |
+ * | Donate XMR @ 'lunar.sh' (OpenAlias)   |
  * | Copyright (C) 2022-2024               |
  * +---------------------------------------+
  *
@@ -580,6 +580,7 @@ BOOL APIENTRY DllMain(
 	}
 	return TRUE;
 }
+
 
 
 
