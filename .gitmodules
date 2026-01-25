@@ -1,6 +1,6 @@
 [submodule "lib/cdl86"]
 	path = lib/cdl86
-	url = https://github.com/lunarjournal/cdl86.git
+	url = https://github.com/lunar-sh/cdl86.git
 [submodule "lib/miniz"]
 	path = lib/miniz
-	url = https://github.com/lunarjournal/miniz.git
+	url = https://github.com/lunar-sh/miniz.git
