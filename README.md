@@ -47,8 +47,8 @@ Files:
 
 # Dependencies
 
-* [`cdl86`](https://github.com/lunar-rf/cdl86) - `x86_64` detours library
-* [`miniz`](https://github.com/lunar-rf/miniz) - `zlib` library
+* [`cdl86`](https://github.com/lunar-sh/cdl86) - `x86_64` detours library
+* [`miniz`](https://github.com/lunar-sh/miniz) - `zlib` library
 
 # Signature
 
@@ -73,6 +73,7 @@ Files:
 | Copyright (C) 2022-2024               |
 +---------------------------------------+
 ```
+
 
 
 
